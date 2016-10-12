@@ -1,6 +1,6 @@
 {
   "name": "vertxbus-js",
-  "version": "2.1.0",
+  "version": "3.3.3",
   "dependencies": {
     "sockjs": "~0.3.4"
   },
